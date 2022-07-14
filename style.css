@@ -1,0 +1,8 @@
+.bodyclass{
+    background-image: linear-gradient(to bottom,rgb(94, 183, 221),rgb(70, 222, 149));
+}
+#camera{
+    height:300px;
+    width:350px;
+    border:dashed 5px blueviolet;
+}
